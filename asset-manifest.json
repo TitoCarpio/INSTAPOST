@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/INSTAPOST/static/css/main.004c7460.chunk.css",
+    "main.js": "/INSTAPOST/static/js/main.23c7e758.chunk.js",
+    "main.js.map": "/INSTAPOST/static/js/main.23c7e758.chunk.js.map",
+    "runtime-main.js": "/INSTAPOST/static/js/runtime-main.b69a17cc.js",
+    "runtime-main.js.map": "/INSTAPOST/static/js/runtime-main.b69a17cc.js.map",
+    "static/js/2.9b38bf7f.chunk.js": "/INSTAPOST/static/js/2.9b38bf7f.chunk.js",
+    "static/js/2.9b38bf7f.chunk.js.map": "/INSTAPOST/static/js/2.9b38bf7f.chunk.js.map",
+    "index.html": "/INSTAPOST/index.html",
+    "static/css/main.004c7460.chunk.css.map": "/INSTAPOST/static/css/main.004c7460.chunk.css.map",
+    "static/js/2.9b38bf7f.chunk.js.LICENSE.txt": "/INSTAPOST/static/js/2.9b38bf7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b69a17cc.js",
+    "static/js/2.9b38bf7f.chunk.js",
+    "static/css/main.004c7460.chunk.css",
+    "static/js/main.23c7e758.chunk.js"
+  ]
+}
